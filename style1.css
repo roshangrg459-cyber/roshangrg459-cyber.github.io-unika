@@ -5,6 +5,7 @@ img{
 }
 font{
   color:Red;
+  font-size: 25px;
 }
 
 img:hover {
