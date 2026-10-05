@@ -1,0 +1,21 @@
+img
+{
+  border:3px solid pink;
+  background-size: cover;
+  height: 625;
+  
+}
+img:hover
+{
+  transform:scale(1.8);
+  transition: 1s;
+  box-shadow: 0 0 10px 10px lightpink;
+}
+a{
+  border:2px pink;
+  font-size: 50px;
+}
+a:hover
+{
+  box-shadow: 0 0 10px 10px lightpink;
+}
