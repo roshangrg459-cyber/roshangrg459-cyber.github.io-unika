@@ -3,6 +3,9 @@ img{
   border:2px solid white;
 
 }
+font{
+  color:Red;
+}
 
 img:hover {
   border-radius:20%;
